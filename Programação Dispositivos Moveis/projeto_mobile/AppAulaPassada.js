@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Image, Text, View, StyleSheet } from 'react-native';
+import { Image, Text, View, StyleSheet, TextInput } from 'react-native';
 import imagem from './assets/steve.jpg'
 import imagem2 from './assets/stevezinho.jpg'
 

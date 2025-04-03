@@ -3,7 +3,7 @@ import { ProductInterface } from './product.interface';
 
 @Injectable()
 export class ProductRepository {
-  private products: ProductInterface[];
+  private products: ProductInterface[] = [];
   create(product: ProductInterface): void {
     this.products.push(product);
   }

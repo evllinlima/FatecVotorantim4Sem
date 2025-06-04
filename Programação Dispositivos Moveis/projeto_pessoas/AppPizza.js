@@ -13,6 +13,7 @@ export default class AppPizza extends Component {
         { key: '3', nome: 'Quatro Queijos', valor: 37 },
         { key: '4', nome: 'Brigadeiro', valor: 25.70 },
         { key: '5', nome: 'Portuguesa', valor: 70 },
+        { key: '6', nome: 'Mozzarella', valor: 70 },
       ]
     };
   }
